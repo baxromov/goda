@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+database:
+  driver: sqlite
+  sqlite:
+    dsn: test.db
+
+middleware:
+  logging: true
+  recovery: true
+  auth: true
+
+swagger:
+  enabled: true
