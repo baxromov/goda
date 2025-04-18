@@ -4,9 +4,8 @@ package serializers
 import (
 	"encoding/json"
 	"errors"
+	"goda/models "
 	"reflect"
-
-	"github.com/baxromov/goda/models"
 )
 
 // Serializer is the base interface for all serializers
