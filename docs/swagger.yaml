@@ -1,0 +1,17 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    email: support@example.com
+    name: API Support
+    url: http://www.example.com/support
+  description: An example REST framework built with Gin and GORM, inspired by Django
+    REST Framework.
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  termsOfService: http://swagger.io/terms/
+  title: Goda REST Framework
+  version: "1.0"
+paths: {}
+swagger: "2.0"
