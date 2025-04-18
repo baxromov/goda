@@ -24,9 +24,4 @@ go.work.sum
 
 # env file
 .env
-
-# SQLite database files
-*.db
-*.sqlite
-*.sqlite3
 .idea
